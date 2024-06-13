@@ -1,7 +1,7 @@
 clear
 apt update
 apt upgrade
-apt install python
+apt install python3
 apt install nodejs
 apt install yarn
 yarn
